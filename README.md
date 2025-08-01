@@ -47,23 +47,10 @@ git clone https://github.com/0ldh/claude-code-agents-orchestra.git
 cd claude-code-agents-orchestra
 ```
 
-### 2. Set Up Your AI Team
+### 2. Start Building with Your Team
 
 ```bash
-# Copy the example CLAUDE.md to get started with the orchestration framework
-cp CLAUDE.md.example CLAUDE.md
-
-# Or use the agents directly in your Claude Code sessions
-```
-
-### 3. Start Building with Your Team
-
-```bash
-# Simple task - direct agent use
-claude "Use the django-expert to add user profile endpoints to my API"
-
-# Complex mission - full team coordination
-claude "Build a complete e-commerce checkout system with payment processing"
+claude "@agent-tech-lead-orchestrator Build a complete e-commerce checkout system with payment processing"
 ```
 
 The framework will automatically:
