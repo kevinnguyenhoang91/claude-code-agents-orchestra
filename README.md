@@ -307,33 +307,6 @@ Before delivery:
 
 ---
 
-## 💡 Why This Approach Works
-
-### 🎯 Specialized Expertise
-
-Each agent masters their domain deeply:
-
-- Django Expert knows every Django pattern and pitfall
-- Security Auditor stays current with latest vulnerabilities
-- Performance Engineer optimizes at microsecond level
-
-### 🤝 True Collaboration
-
-Agents work together seamlessly:
-
-- Share context between specialists
-- Parallel execution for speed
-- Handoffs maintain continuity
-
-### 📈 Better Results
-
-- **Ship 3x faster** with parallel specialist execution
-- **90% fewer bugs** through specialized review
-- **Production-ready** code from the start
-- **Learn best practices** from expert implementations
-
----
-
 ## 👑 Advanced Usage: The Global Rule Book
 
 Transform Claude Code into a strategic development partner with **`CLAUDE.md.example`** - our battle-tested orchestration framework.
