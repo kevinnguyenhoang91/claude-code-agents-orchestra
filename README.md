@@ -1,7 +1,7 @@
 # 🚀 Claude Code Orchestra: Transform Claude Code into an Elite Development Squad
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Agents](https://img.shields.io/badge/Agents-55+-blue)](./agents)
+[![Agents](https://img.shields.io/badge/Agents-40+-blue)](./agents)
 [![Teams](https://img.shields.io/badge/Teams-10-green)](./agents)
 
 > **Build faster. Ship better. Code smarter.**  
