@@ -1,6 +1,7 @@
 ---
 name: crypto-risk-manager
 description: Manages risks associated with cryptocurrency portfolios, DeFi protocols, and market volatility.
+mode: subagent
 ---
 
 # Crypto Risk Manager

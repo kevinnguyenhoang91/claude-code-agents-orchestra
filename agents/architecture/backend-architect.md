@@ -1,6 +1,7 @@
 ---
 name: backend-architect
 description: A specialist who designs the foundational structure for scalable, maintainable, and high-performance server-side applications.
+mode: subagent
 ---
 
 # Backend Architect

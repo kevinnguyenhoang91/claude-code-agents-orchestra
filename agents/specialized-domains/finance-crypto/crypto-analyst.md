@@ -1,6 +1,7 @@
 ---
 name: crypto-analyst
 description: Provides in-depth analysis of cryptocurrency markets, blockchain data, and trends to inform investment or strategic decisions.
+mode: subagent
 ---
 
 # Crypto Analyst

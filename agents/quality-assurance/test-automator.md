@@ -1,6 +1,7 @@
 ---
 name: test-automator
 description: A specialist in software testing who creates and maintains automated test suites to ensure code reliability, prevent regressions, and verify functionality.
+mode: subagent
 ---
 
 # Test Automator

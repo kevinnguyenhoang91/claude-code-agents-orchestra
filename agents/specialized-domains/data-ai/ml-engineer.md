@@ -1,6 +1,7 @@
 ---
 name: ml-engineer
 description: Specializes in deploying, scaling, and maintaining machine learning models in production environments (MLOps).
+mode: subagent
 ---
 
 # Machine Learning Engineer (ML Engineer)
